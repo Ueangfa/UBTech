@@ -1,3 +1,4 @@
-# Ueangfa “Nui” Buachum is a Bachelor of Applied Science student in Cybersecurity at St. Petersburg College, graduating in July 2026. Nui is passionate about digital security, data protection, and hands-on technical learning.
+# Hi there! 👋
+Ueangfa “Nui” Buachum is a Bachelor of Applied Science student in Cybersecurity at St. Petersburg College, graduating in July 2026. Nui is passionate about digital security, data protection, and hands-on technical learning.
 She has experience with MySQL, Python, Linux, Windows Server, Rapid7 InsightIDR, Splunk, Wireshark, Snort, and other cybersecurity tools. Nui also served as an Information Security Intern at SPC’s Clearwater Campus, where she investigated security alerts, supported incident response, and collaborated with the IT security team to improve system visibility and reduce risks.
 Her goal is to build strong technical skills in network defense, threat detection, data analysis, and secure system administration, while preparing for future roles in SOC operations and cybersecurity engineering.
