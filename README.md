@@ -3,3 +3,4 @@ My name is **Ueangfa “Nui” Buachum**, and I’m currently pursuing my **Bach
 I have hands-on experience with **MySQL, Python, Linux, Windows Server, Splunk, Rapid7 InsightIDR, Wireshark, and Snort**. I also completed an **Information Security Internship at SPC Clearwater**, where I investigated alerts, supported incident response, and worked closely with the IT security team to strengthen our security posture.
 I enjoy building projects that help me grow as a cybersecurity professional, especially in areas like **network defense, threat detection, SOC operations, and secure system administration**. SQL Learning Lab is part of my journey to improve my database and analysis skills as I prepare for future cybersecurity roles.
 # 👩🏻‍💻 My Projects:
+* 🖥️ SQL Learning Lab
